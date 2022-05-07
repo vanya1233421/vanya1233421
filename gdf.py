@@ -13,7 +13,7 @@ class Main(Frame):
         self.lbl.place(x=20, y=50)
  #ЦИФРЫ
         def click (): 
-            webbrowser.open_new_tab("https://disk.yandex.ru/client/recent")
+            webbrowser.open_new_tab("https://github.com/vanya1233421/vanya1233421/commit/9b6cd1d86a468a61b2ce16e28ee8bd24b31debbc")
             
         txtkode = "Код"
         kod = Button (root, text = txtkode, command = click)
